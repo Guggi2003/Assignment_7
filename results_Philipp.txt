@@ -1,0 +1,5 @@
+Computer Name: Philipp_Laptop
+Date of Test: 2025-11-04 13:05:27
+Bubble Sort Time: 6.521813 seconds
+Quick Sort Time: 0.015314 seconds
+
